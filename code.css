@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+}
+
+#main {
+    background-color: pink;
+    max-width: 150px;
+    margin-left: 200px;
+    margin-top: 50px;
+    height: 140px;
+}
+
+#screen {
+    width: 120px;
+    height: 21px;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+
+#main2 {
+    margin-left: 10px;
+    width: 85%;
+    background-color: white;
+}
+
+.area {
+    width: 84%;
+    background-color: rgb(247, 243, 8);
+}
+
+input[type="button"] {
+    border-radius: 50%;
+}
